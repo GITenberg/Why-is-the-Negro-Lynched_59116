@@ -1,0 +1,26 @@
+_repo: Why-is-the-Negro-Lynched_59116
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Douglass, Frederick
+    aliases:
+    - Bailey, Frederick Augustus Washington
+    - Baly, Frederick Augustus Washington
+    birthdate: 1818
+    deathdate: 1895
+    gutenberg_agent_id: '34510'
+    url: http://www.gutenberg.org/2009/agents/34510
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Douglass
+description: ''
+gutenberg_issued: '2019-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59116'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Why is the Negro Lynched?
+url: http://www.gutenberg.org/ebooks/59116
